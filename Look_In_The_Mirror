@@ -1,0 +1,13 @@
+speed 10
+dot (darkgreen), 400
+jumpxy 30, 20
+dot (darkgrey), 25
+lt 90
+fd 100
+dot (lightgrey), 25
+lt 90
+fd 100
+lt 90
+pen (crimson), 10
+lt 90
+rt 180, 60
