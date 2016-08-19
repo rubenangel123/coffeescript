@@ -1,0 +1,5 @@
+speed 10
+dot yellow, 160
+jumpxy 30, 20
+dot black, 20
+moveto -30, 20
