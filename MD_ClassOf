@@ -1,0 +1,226 @@
+speed 100
+rt 90
+dot pink, 20
+fd 25
+pen pink, 10
+fd 25 
+pu()
+fd 25
+dot pink, 20 
+fd 40
+dot pink, 20
+fd 25 
+dot pink, 20
+fd 25
+pen pink, 10
+fd 25
+pu()
+fd 40
+lt 90
+pen pink, 10 
+fd 25 
+pu()
+fd 25 
+dot pink, 20
+fd 25 
+dot pink, 20
+fd 25
+dot pink, 20
+fd 40 
+dot pink, 20
+lt 90 
+fd 40
+pen pink, 10
+fd 25
+pu()
+fd 25 
+dot pink, 20
+home() 
+fd 40 
+dot purple, 20 
+fd 25 
+pen purple, 10
+fd 25
+pu()
+fd 40
+pen purple, 10 
+fd 25 
+pu()
+fd 25
+dot purple, 20
+rt 90 
+fd 40
+pen purple, 10 
+fd 25
+pu()
+fd 25 
+pen purple, 10
+fd 25
+pu()
+fd 25 
+dot purple, 20
+lt 90
+fd 40
+lt 90
+dot purple, 20
+fd 40 
+dot purple, 20
+fd 25
+pen purple, 10
+fd 25
+pu()
+fd 25
+dot purple, 20
+fd 25 
+dot purple, 20
+fd 40 
+lt 90
+pen red, 10 
+fd 25
+pu()
+fd 25 
+dot red, 20
+fd 25
+pen red,10
+fd 25
+pu()
+fd 25
+dot red, 20
+fd 40 
+dot red, 20
+fd 25 
+pen red, 10 
+fd 25
+pu()
+fd 25
+dot red, 20
+fd 25 
+dot red, 20
+fd 40
+lt 90
+dot red, 20 
+fd 25 
+pen red, 10
+fd 25
+pu()
+fd 40 
+dot red, 20 
+fd 25 
+dot red, 20 
+fd 25 
+dot red, 20
+fd 40
+dot red, 20 
+fd 25
+dot red, 20
+fd 25 
+dot red, 20
+fd 40 
+rt 90
+pen yellow, 10 
+fd 25 
+pu()
+fd 25
+pen yellow, 10
+fd 25
+pu()
+fd 25
+pen yellow, 10 
+fd 25
+rt 90
+pu()
+fd 25
+dot blue, 20 
+fd 25
+dot blue, 20
+fd 25 
+pen blue, 10
+fd 25
+pu()
+fd 25
+pen blue, 10
+fd 25
+pu()
+fd 25
+pen blue, 10
+fd 25
+pu()
+rt 90
+fd 40
+lt 90
+pen blue, 10
+fd 25
+pu()
+fd 25 
+pen blue, 10
+fd 25
+pu()
+fd 25
+pen blue, 10
+fd 25
+pu()
+fd 25 
+pen blue, 10
+fd 25 
+pu()
+fd 25
+pen blue, 10
+fd 25
+rt 90
+pu()
+fd 40
+dot blue, 20
+fd 25
+pen blue, 10 
+fd 25 
+pu()
+fd 25 
+pen blue, 10
+fd 25
+pu()
+fd 25
+pen blue, 10
+fd 25 
+pu()
+fd 25
+pen blue, 10
+fd 25
+rt 90
+pu()
+fd 40
+lt 90
+pen blue, 10
+fd 25
+pu()
+fd 25 
+pen blue, 10
+fd 25 
+pu()
+fd 25
+dot blue, 20 
+fd 25
+dot blue, 20
+fd 25
+dot blue, 20
+fd 25
+dot blue, 20
+fd 25
+moveto 230, -205
+rt 90
+fd 40 
+lt 90
+dot yellow, 20
+fd 25
+dot yellow, 20
+fd 25
+pen yellow, 10 
+fd 25
+pu()
+fd 25 
+dot yellow, 20
+fd 25
+
+
+
+
+
