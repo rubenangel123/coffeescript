@@ -1,0 +1,182 @@
+speed 50
+rt 90
+pen purple, 8
+fd 25
+lt 90
+fd 50
+lt 90
+fd 75
+lt 90
+fd 50
+lt 90
+fd 25
+pu()
+moveto -50, 24
+lt 180
+pen purple, 8
+fd 25
+rt 90
+fd 50
+rt 90
+fd 125
+rt 90
+fd 35
+pu()
+moveto -75, 26
+pen purple, 8
+fd 50
+lt 90
+fd 125
+lt 90
+fd 35
+pu()
+moveto -226, 16 
+pen purple, 8
+fd 205
+rt 90
+fd 425
+rt 90
+fd 395
+rt 90
+fd 200
+
+pu()
+moveto -226, 16
+lt 90
+pen purple, 8
+fd 190
+lt 90
+fd 200
+pu()
+moveto -124, -172
+lt 90
+pen purple, 8
+fd 25 
+lt 90
+fd 50
+rt 90
+fd 25
+pu()
+moveto -122, -147
+rt 90
+pen purple, 8
+fd 275
+pu()
+moveto -173, -121
+lt 90
+pu()
+fd 30
+pen purple, 8
+fd 285
+rt 90
+pu()
+fd 30
+pen purple, 8
+fd 100
+pu()
+moveto -98, 196
+lt 90
+pen purple, 8
+fd 25
+pu()
+moveto -42, 194
+rt 90
+pu()
+fd 30
+pen purple, 8
+fd 165
+rt 90
+fd 25
+pu()
+fd 30
+pen purple, 8
+fd 150
+pu()
+moveto 154, -146
+lt 180
+pen purple, 8
+fd 100
+pu()
+fd 100
+rt 90
+pen purple, 8
+fd 40
+pu()
+moveto -73, -144
+lt 90
+pen purple, 8
+fd 25
+rt 90
+fd 50
+lt 180
+pu()
+fd 50
+pen purple, 8
+fd 50
+rt 90
+fd 120
+pu()
+fd 30
+pen purple, 8
+fd 40
+lt 90
+fd 50
+pu()
+moveto -119, 50
+rt 180
+pen purple, 8
+fd 40
+pu()
+moveto -13, 77
+lt 90 
+pen purple, 8
+fd 70
+lt 90
+fd 110
+lt 90
+fd 50
+pu()
+moveto -12, 147
+lt 90 
+pu()
+pen purple, 8
+fd 100
+rt 90
+fd 50
+pu()
+lt 180 
+fd 50
+pen purple, 8
+fd 45
+pu()
+rt 180
+fd 130
+pen purple, 8
+fd 30
+lt 90
+fd 65
+pu()
+lt 180
+fd 65
+lt 90
+pen purple, 8
+fd 152
+rt 90
+pen purple, 8
+fd 75
+pu()
+moveto -12, -73
+pen purple, 8
+fd 50
+rt 180
+pu()
+fd 50
+pen purple, 8
+fd 50
+pu()
+moveto 53, -24
+pen purple, 8
+fd 35
+pu()
+moveto -24, 29
+
