@@ -1,0 +1,43 @@
+speed 100
+pen color, 5
+for [1..4]
+  fd 100
+  rt 90
+rt 45
+fd 50
+lt 45
+for [1..5]
+  fd 100
+  rt 90
+lt 225
+fd 50
+lt 135
+fd 100
+lt 45
+fd 50
+rt 135
+fd 100
+rt 45
+fd 50
+home()
+jumpto -127, -224
+for [1..4]
+  fd 300
+  rt 90
+rt 45
+fd 150
+lt 45
+for[1..5]
+  fd 300
+  rt 90
+lt 225
+fd 150
+lt 135
+fd 300
+lt 45
+fd 150
+rt 135
+fd 300
+rt 45
+fd 150
+# I just put it to go home where we started then i just changed the fd to 3 times as much as the original the i put jump to certain coordinates
