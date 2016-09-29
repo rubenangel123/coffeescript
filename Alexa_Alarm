@@ -1,0 +1,38 @@
+Day = 'Monday'
+a = new Piano
+a.fd 100
+b = new Piano
+  lowest: "C,,"
+  keys: 36
+b.bk 100
+sync a, b
+b.play
+  tempo: 150
+  song: """
+    Z2
+    F,,/F,/F,,/F,/F,,/F,/F,,/F,/
+    C,,/C,/C,,/C,/C,,/C,/C,,/C,/
+    F,,/F,/F,,/F,/F,,/F,/F,,/F,/
+    C,,/C,/C,,/C,/C,,/C,/C,,/C,/
+    _B,,/_B,/_B,,/_B,/_B,,/_B,/_B,,/_B,/
+    C,,/C,/C,,/C,/C,,/C,/C,,/C,/
+    F,,/F,/F,,/F,/F,,/F,/F,,/F,/
+    F,,/F,/F,,/F,/F,,/F,/F,,/F,/
+    """
+a.play
+  tempo: 150
+  song: """
+    [F_B]/B/B/B/
+    [F_B]/A31/2-
+    A3/2[F_B]B/B/B/
+    [F_B]A/G/F/G/A/G/-
+    G3/2[F_B]B/B/B/
+    [F_B]/C'31/2-
+    C'/C/C/AG/G/F/
+    F8
+  """
+say 'Good Morning! It is time to wake up'
+if Day is 'Monday'
+  say 'You have to go to school today'
+else
+  say 'Good bye!'
