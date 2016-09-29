@@ -1,0 +1,19 @@
+# chatbot
+# CS1004
+
+write 'Bob: Hi! my name is Bob.'
+await read 'Bob: What\'s your name?' ,defer name
+write 'Bob:Hello ' + name
+done = false
+while not done
+  prompt = (name = ' can you guess who I am?') + ':'
+  await read prompt, defer q
+  if (q.match /quit|exit|give up/)
+    write 'Bob: OK, nice talking to you!'
+    done = true 
+  else if (q.match /robot|human|chatbot/)
+    write 'Bob: Close... But I am a human, of course.'
+  else (write 'Bob: Good guesswork!')
+  
+    
+
