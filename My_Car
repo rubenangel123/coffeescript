@@ -1,0 +1,16 @@
+speed 10
+pen red
+rt 360, 20
+lt 90
+fd 60
+lt 90
+rt 540, 20
+fd 10
+rt 90, 20
+lt 40
+fd 50
+rt 40
+fd 80
+rt 90
+fd 55
+home()
