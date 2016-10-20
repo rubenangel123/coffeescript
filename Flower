@@ -1,0 +1,19 @@
+speed 5
+pen green
+rt 30,200
+pen yellow 
+rt 360,20
+lt 100,100
+pen yellow 
+rt 360,20
+lt 100,100
+pen yellow 
+rt 360,20
+lt 100,100
+pen yellow 
+rt 360,20
+lt 20,200
+pen yellow 
+rt 360,20
+
+
