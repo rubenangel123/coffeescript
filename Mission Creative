@@ -1,0 +1,23 @@
+a = new Turtle red
+b = turtle
+c = new Turtle green
+for [1..20]
+  (random [a,b,c]).fd 20
+  (random [a,b,c]).rt 88
+  
+ sync a, b, c
+ a.dot red, 100
+ b.dot green, 100
+ c.dot blue, 100
+ 
+s = new Sprite 
+  color:gray 
+  height: 128 
+  width: 128 
+s.pen blue 
+s.rt 135 
+s.fd 200
+
+
+
+ 
