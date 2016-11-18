@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.redtext {
+        color: red;
+}
+</style>
+</head>
+<body>
+ 
+<h1 class="blacktext">HTML</h1>
+
+
+ <h3 style="color:#A97E14;">Inline Elements</h3>
+
+    <h4>Line Breaks </h4>
+    <h4>Semantic inline text elements</h4>
+    <p> Describes the meaning of the text<p>
+    <p>Examples:{em}for emphasis,{strong}strongly emphasized,{q}short inline quote</p>
+    <h4>Presentational inline text element </h4>
+    <h5>Provides description of the elements style</h5>
+    <p>Examples:{b} keywords or visually emphasized text (bold)Ex: product name,{i} Alternative voice(italics)Ex: phrase, technical term, thought (please use:{strong} & {em} instead)
+  
+
