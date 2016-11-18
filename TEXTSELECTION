@@ -1,0 +1,12 @@
+<html> 
+  <body> 
+
+<h1> Text Selection </h1> 
+    <p> This example of whacky text selection mechanisms, showing how these can be implemented in the TextEdit element, to cater for whatever style is appropriate for the target platform</p> 
+   <p><b>Press-and-hold</b> to select a word, then drag th selection handles.</p> 
+   <p><b> Drag outside the selection</b> to scroll the text</P> 
+    <P><b> Click inside the selection</b> to cut/copy/paste/cancel selection</p> 
+  <p> It's too whacky to let you paste if there is no current selection   
+ 
+ 
+  
